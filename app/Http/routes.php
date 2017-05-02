@@ -39,7 +39,7 @@ Route::get('/buttonMosh', function() {
 	return view('content.buttonMosh');
 });
 
-Route::get('/liveStream', function() {
+Route::get('/twitch', function() {
 	return view('content.liveStream');
 });
 
