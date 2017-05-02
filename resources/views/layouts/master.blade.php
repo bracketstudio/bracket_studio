@@ -15,6 +15,7 @@
 		}
 	</style>
 	<link rel="stylesheet" href="/css/footer-basic-centered.css">
+	<link rel="stylesheet" href="/css/footer-distributed.css">
 </head>
 <body>
 <nav class="navbar navbar-inverse">

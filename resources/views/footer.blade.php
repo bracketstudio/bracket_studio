@@ -12,6 +12,17 @@
 				<a href="/contact">Contact</a>
 			</p>
 
+			<div class="footer-distributed text-center">
+				<div class="footer-right">
+
+					<a href="https://www.facebook.com/bracketstudio"><i class="fa fa-facebook"></i></a>
+					<a href="https://twitter.com/BracketStudio"><i class="fa fa-twitter"></i></a>
+					<a href="https://www.youtube.com/channel/UC4jIPpJtuejO8NZGTM3xKjA"><i class="fa fa-youtube"></i></a>
+					<a href="https://www.instagram.com/bracketstudio/"><i class="fa fa-instagram"></i></a>
+
+				</div>
+			</div>
+
 			<p class="footer-company-name">Bracket Studio &copy; 2017</p>
 
 		</footer>
