@@ -1,0 +1,44 @@
+/************* MOBILE STYLES *************/
+body{
+	font-family: 'Russo One', sans-serif;
+}
+
+li {
+	font-family: 'Press Start 2P', cursive;
+}
+
+.navbar-brand img{
+	height: 5em; 
+	width: 5em;
+}
+
+.nav>li {
+	text-align: center;
+	border-bottom: 1px solid #9d9d9d;  
+}
+
+.navbar-right>li {
+	float: left;
+	margin-left: 11%;
+	border-bottom: none;  
+}
+
+
+/************* TABLET STYLES *************/
+@media (min-width: 768px) {
+.nav>li {
+	text-align: none;
+	border-bottom: none;  
+}
+.navbar-right>li {
+	float: right!important;
+	margin-left: 0%;
+}
+
+}
+
+
+/************* DESKTOP STYLES *************/
+@media (min-width: 940px) {
+
+}
