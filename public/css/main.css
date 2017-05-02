@@ -18,8 +18,8 @@ li {
 }
 
 .navbar-right>li {
-	float: left;
-	margin-left: 11%;
+	float: right;
+	margin-right: 11%;
 	border-bottom: none;  
 }
 
@@ -32,7 +32,7 @@ li {
 }
 .navbar-right>li {
 	float: right!important;
-	margin-left: 0%;
+	margin-right: 0%;
 }
 
 }
