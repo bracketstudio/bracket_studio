@@ -37,7 +37,7 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="/main">[Main]</a></li>
+				<li><a href="/">[Main]</a></li>
 				<li><a href="/content">[Content]</a></li>
 				<li><a href="/synergy">[Synergy]</a></li>
 				<li><a href="/patreon">[Patreon]</a></li>
