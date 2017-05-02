@@ -52,7 +52,7 @@
 	</div>
 </nav>
 <div class="logo-site-title">
-	<img src="/img/bs.jpg" height='500' width='100%'>
+	<img src="/img/bs.png" height='300' width='100%'>
 </div>	
 <div class="container">
 	@yield('content')
