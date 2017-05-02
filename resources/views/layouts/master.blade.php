@@ -14,8 +14,11 @@
 		    border-radius: 0px;
 		}
 	</style>
+	<link href="https://fonts.googleapis.com/css?family=Russo+One|Press+Start+2P" rel="stylesheet">
 	<link rel="stylesheet" href="/css/footer-basic-centered.css">
 	<link rel="stylesheet" href="/css/footer-distributed.css">
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+
 </head>
 <body>
 <nav class="navbar navbar-inverse">
@@ -29,7 +32,7 @@
 				<span class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="/">
-				<img alt="BS logo" src="">
+				<img alt="[Bracket Studio]" src="/img/logo.png">
 			</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
