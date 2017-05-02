@@ -22,3 +22,27 @@ Route::get('/about', function() {
 Route::get('/careers', function() {
 	return view('about.careers');
 });
+
+Route::get('/patreon', function() {
+	return view('patreon');
+});
+
+Route::get('/synergy', function() {
+	return view('synergy');
+});
+
+Route::get('/bsop', function() {
+	return view('content.bsop');
+});
+
+Route::get('/buttonMosh', function() {
+	return view('content.buttonMosh');
+});
+
+Route::get('/liveStream', function() {
+	return view('content.liveStream');
+});
+
+Route::get('/videos', function() {
+	return view('content.videos');
+});
