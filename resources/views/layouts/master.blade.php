@@ -10,8 +10,12 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<style>
 		.navbar {
-		    margin-bottom:0;
+		    margin-bottom: 0;
 		    border-radius: 0px;
+		}
+		img.resize {
+		    width: 100%; /* you can use % */
+		    height: auto;
 		}
 	</style>
 	<link rel="shortcut icon" href="/img/logo.png" type="image/x-icon">
@@ -38,7 +42,7 @@
 				<li><a class="navbar-brand" href="/" style="padding: 0px"><img alt="[Bracket Studio]" src="/img/logo.png" ></a></li>
 				<li><a href="/">[Main]</a></li>
 				<li><a href="/content">[Content]</a></li>
-				<li><a href="/synergy">[Synergy]</a></li>
+				<li><a href="/twitch">[Twitch]</a></li>
 				<li><a href="/patreon">[Patreon]</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
@@ -51,7 +55,7 @@
 	</div>
 </nav>
 <div class="logo-site-title">
-	<img src="/img/bs.png" height='300' width='100%'>
+	<img class="resize" src="/img/bs.png" >
 </div>	
 <div class="container">
 	@yield('content')
