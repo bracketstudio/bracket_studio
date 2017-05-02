@@ -35,10 +35,7 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-			<li>
- 			<a class="navbar-brand" href="/" style="padding: 0px;">
-				<img alt="[Bracket Studio]" src="/img/logo.png">
-			</a></li>
+				<li><a class="navbar-brand" href="/" style="padding: 0px"><img alt="[Bracket Studio]" src="/img/logo.png" ></a></li>
 				<li><a href="/">[Main]</a></li>
 				<li><a href="/content">[Content]</a></li>
 				<li><a href="/synergy">[Synergy]</a></li>
