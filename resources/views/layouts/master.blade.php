@@ -14,6 +14,7 @@
 		    border-radius: 0px;
 		}
 	</style>
+	<link rel="shortcut icon" href="/img/logo.png" type="image/x-icon">
 	<link href="https://fonts.googleapis.com/css?family=Russo+One|Press+Start+2P" rel="stylesheet">
 	<link rel="stylesheet" href="/css/footer-basic-centered.css">
 	<link rel="stylesheet" href="/css/footer-distributed.css">
@@ -31,12 +32,13 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="/">
-				<img alt="[Bracket Studio]" src="/img/logo.png">
-			</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
+			<li>
+ 			<a class="navbar-brand" href="/" style="padding: 0px;">
+				<img alt="[Bracket Studio]" src="/img/logo.png">
+			</a></li>
 				<li><a href="/">[Main]</a></li>
 				<li><a href="/content">[Content]</a></li>
 				<li><a href="/synergy">[Synergy]</a></li>
