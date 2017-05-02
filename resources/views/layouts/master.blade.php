@@ -43,10 +43,10 @@
 				<li><a href="/patreon">[Patreon]</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
+				<li><a target="_blank" href="https://www.instagram.com/bracketstudio/" class="fa fa-instagram"></a></li>
+				<li><a target="_blank" href="https://www.youtube.com/channel/UC4jIPpJtuejO8NZGTM3xKjA" class="fa fa-youtube"></a></li>
 				<li><a target="_blank" href="https://twitter.com/BracketStudio" class="fa fa-twitter"></a></li>
 				<li><a target="_blank" href="https://www.facebook.com/bracketstudio" class="fa fa-facebook"></a></li>
-				<li><a target="_blank" href="https://www.youtube.com/channel/UC4jIPpJtuejO8NZGTM3xKjA" class="fa fa-youtube"></a></li>
-				<li><a target="_blank" href="https://www.instagram.com/bracketstudio/" class="fa fa-instagram"></a></li>
 			</ul>
 		</div>
 	</div>

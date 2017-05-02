@@ -3,13 +3,13 @@
 			<p class="footer-company-motto">We don't give a fuck. -Dewie</p>
 
 			<p class="footer-links">
-				<a href="/about">About</a>
+				<a href="/about">[About]</a>
 				·
-				<a href="/careers">Careers</a>
+				<a href="/careers">[Careers]</a>
 				·
-				<a href="/faq">FAQ</a>
+				<a href="/faq">[FAQ]</a>
 				·
-				<a href="/contact">Contact</a>
+				<a href="/contact">[Contact]</a>
 			</p>
 
 			<div class="footer-distributed text-center">
