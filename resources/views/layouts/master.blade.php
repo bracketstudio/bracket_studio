@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<style>
 	</style>
+	<link rel="stylesheet" href="/css/footer-basic-centered.css">
 </head>
 <body>
 <nav class="navbar navbar-inverse">
@@ -48,6 +49,7 @@
 	@yield('content')
 </div>
 
+@include('footer')
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<!-- Latest compiled and minified JavaScript -->
