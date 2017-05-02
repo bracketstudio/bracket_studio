@@ -9,6 +9,10 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<style>
+		.navbar {
+		    margin-bottom:0;
+		    border-radius: 0px;
+		}
 	</style>
 	<link rel="stylesheet" href="/css/footer-basic-centered.css">
 </head>
@@ -29,22 +33,23 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="#">[About]</a></li>
-				<li><a href="#">[Main]</a></li>
-				<li><a href="#">[Content]</a></li>
-				<li><a href="#">[Synergy]</a></li>
-				<li><a href="#">[Patreon]</a></li>
-				<li><a href="#">[Support]</a></li>
+				<li><a href="/main">[Main]</a></li>
+				<li><a href="/content">[Content]</a></li>
+				<li><a href="/synergy">[Synergy]</a></li>
+				<li><a href="/patreon">[Patreon]</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a target="_blank" href="https://twitter.com/BracketStudio" class="fa fa-twitter"></a></li>
 				<li><a target="_blank" href="https://www.facebook.com/bracketstudio" class="fa fa-facebook"></a></li>
 				<li><a target="_blank" href="https://www.youtube.com/channel/UC4jIPpJtuejO8NZGTM3xKjA" class="fa fa-youtube"></a></li>
-				<li><a target="_blank" href="#" class="fa fa-instagram"></a></li>
+				<li><a target="_blank" href="https://www.instagram.com/bracketstudio/" class="fa fa-instagram"></a></li>
 			</ul>
 		</div>
 	</div>
 </nav>
+<div class="logo-site-title">
+	<img src="/img/bs.jpg" height='500' width='100%'>
+</div>	
 <div class="container">
 	@yield('content')
 </div>
