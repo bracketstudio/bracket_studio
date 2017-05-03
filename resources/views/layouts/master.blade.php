@@ -31,6 +31,7 @@
 	<div class="container-fluid">
 	<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
+			<a class="navbar-brand" href="/"><img alt="[Bracket Studio]" src="/img/logo.png" ></a>
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 				<span class="sr-only">Toggle navigation</span>
 				<span class="icon-bar"></span>
@@ -40,7 +41,6 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a class="navbar-brand" href="/" style="padding: 0px"><img alt="[Bracket Studio]" src="/img/logo.png" ></a></li>
 				<li><a href="/">[Main]</a></li>
 				<li><a href="/videos">[Videos]</a></li>
 				<li><a href="/buttonMosh">[Button Mosh]</a></li>
