@@ -16,6 +16,7 @@
 		img.resize {
 		    width: 100%; /* you can use % */
 		    height: auto;
+		    margin-bottom: 10px;
 		}
 	</style>
 	<link rel="shortcut icon" href="/img/logo.png" type="image/x-icon">
@@ -45,7 +46,6 @@
 				<li><a href="/buttonMosh">[Button Mosh]</a></li>
 				<li><a href="/bsop">[BSOP]</a></li>
 				<li><a href="/twitch">[Twitch]</a></li>
-				<!-- <li><a href="/patreon">[Patreon]</a></li> -->
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a target="_blank" href="https://www.instagram.com/bracketstudio/" class="fa fa-instagram"></a></li>
