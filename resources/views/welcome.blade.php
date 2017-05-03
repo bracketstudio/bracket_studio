@@ -22,10 +22,13 @@
       </div>
       <div class="col-sm-8">
           <div class="row">
-            <div class="col-sm-12"><iframe width="100%" height="500px" src="https://www.youtube.com/embed/B5oQYEo4uB4" frameborder="0" allowfullscreen></iframe></div>
+            <div class="col-sm-12"><iframe width="100%" height="500px" src="https://www.youtube.com/embed/B5oQYEo4uB4" frameborder="0" allowfullscreen></iframe>
+			<div class="g-ytsubscribe" data-channel="BracketStudio" data-layout="full" data-count="default"></div>
+            </div>
+			
           </div>
           <div class="row">
-            <div class="col-sm-8"><h2>A Playground</h2><p>
+            <div class="col-sm-12"><h2>A Playground</h2><p>
               Bootply is a playground for Bootstrap. Designers and developers use Bootply to edit, design, prototype, test and find examples that use Bootstrap 3.
               Use Bootply to hand-code HTML, Javascript, CSS and drop in the Bootstrap classes. There is a also a visual drag-and-drop builder that is perfect for wire-framing and mockups.
               </p></div>
