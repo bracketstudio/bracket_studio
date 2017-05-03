@@ -18,6 +18,21 @@
 		    height: auto;
 		    margin-bottom: 10px;
 		}
+		.video-container {
+		    position: relative;
+		    padding-bottom: 56.25%;
+		    padding-top: 35px;
+		    height: 0;
+		    overflow: hidden;
+		    margin-bottom: 5px;
+		}
+		.video-container iframe {
+		    position: absolute;
+		    top:0;
+		    left: 0;
+		    width: 100%;
+		    height: 100%;
+		}
 	</style>
 	<link rel="shortcut icon" href="/img/logo.png" type="image/x-icon">
 	<link href="https://fonts.googleapis.com/css?family=Russo+One|Press+Start+2P" rel="stylesheet">
