@@ -22,6 +22,15 @@ li {
 	border-bottom: 1px solid #9d9d9d;  
 }
 
+.dropdown-menu>li {
+	text-align: center;
+}
+
+.dropdown-menu>li a:hover{
+	background-color: black;
+	color: white;
+}
+
 .navbar-right>li {
 	float: right;
 	margin-right: 11%;
