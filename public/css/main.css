@@ -7,6 +7,11 @@ li {
 	font-family: 'Press Start 2P', cursive;
 }
 
+.navbar-brand {
+	padding: 0em; 
+	padding-left: 1em;
+}
+
 .navbar-brand img{
 	height: 3em; 
 	width: 3em;
