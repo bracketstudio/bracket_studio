@@ -32,6 +32,7 @@
 		    left: 0;
 		    width: 100%;
 		    height: 100%;
+		    margin: auto;
 		}
 	</style>
 	<link rel="shortcut icon" href="/img/logo.png" type="image/x-icon">
