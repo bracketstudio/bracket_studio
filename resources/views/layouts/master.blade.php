@@ -59,8 +59,12 @@
 			<ul class="nav navbar-nav">
 				<li><a href="/">[Main]</a></li>
 				<li><a href="/videos">[Videos]</a></li>
-				<li><a href="/buttonMosh">[Button Mosh]</a></li>
-				<li><a href="/bsop">[BSOP]</a></li>
+				<li class="dropdown">
+	        		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">[Podcasts] <span class="caret"></span></a>
+	        		<ul class="dropdown-menu">
+						<li><a href="/buttonMosh">[Button Mosh]</a></li>
+						<li><a href="/bsop">[BSOP]</a></li>
+	        		</ul>
 				<li><a href="/twitch">[Twitch]</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
