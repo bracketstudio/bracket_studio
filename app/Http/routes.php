@@ -19,10 +19,6 @@ Route::get('/about', function() {
 	return view('about.aboutUs');
 });
 
-Route::get('/careers', function() {
-	return view('about.careers');
-});
-
 Route::get('/faq', function() {
 	return view('about.faq');
 });
