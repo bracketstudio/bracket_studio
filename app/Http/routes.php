@@ -23,6 +23,14 @@ Route::get('/careers', function() {
 	return view('about.careers');
 });
 
+Route::get('/faq', function() {
+	return view('about.faq');
+});
+
+Route::get('/contact', function() {
+	return view('about.contact');
+});
+
 Route::get('/patreon', function() {
 	return view('patreon');
 });
