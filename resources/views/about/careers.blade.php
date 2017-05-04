@@ -22,8 +22,8 @@
 		</div>
 
 		<div class="form-group">
-			<label for="select" class="col-lg-2 control-label">Age Group *</label>
-			<div class="col-lg-2">
+			<label for="select" class="col-sm-2 control-label">Age Group *</label>
+			<div class="col-sm-2">
 				<select class="form-control" id="select">
 					<option>Youngen(younger than 18)</option>
 					<option>Minor(18-20)</option>
@@ -40,8 +40,8 @@
 		</div>
 
 		<div class="form-group">
-			<label for="message" class="col-lg-2 control-label">Message *</label>
-			<div class="col-lg-10">
+			<label for="message" class="col-sm-2 control-label">Message *</label>
+			<div class="col-sm-10">
 				<textarea class="form-control" rows="3" id="message"></textarea>
 			</div>
 		</div>
