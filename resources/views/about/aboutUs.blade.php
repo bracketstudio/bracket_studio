@@ -1,6 +1,7 @@
 @extends('layouts.master')
 
 @section('content')
+<h1 class="text-center">[ABOUT US]</h1>
 
 <div class="container">
 

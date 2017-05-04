@@ -36,7 +36,7 @@
 		}
 	</style>
 	<link rel="shortcut icon" href="/img/logo.png" type="image/x-icon">
-	<link href="https://fonts.googleapis.com/css?family=Russo+One|Press+Start+2P" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Russo+One|Press+Start+2P|Lato:100" rel="stylesheet">
 	<link rel="stylesheet" href="/css/footer-basic-centered.css">
 	<link rel="stylesheet" href="/css/footer-distributed.css">
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
