@@ -37,6 +37,10 @@ li {
 	border-bottom: none;  
 }
 
+.help-block {
+	color: #a94442;
+}
+
 
 /************* TABLET STYLES *************/
 @media (min-width: 768px) {
