@@ -3,27 +3,42 @@
 @section('content')
 <h1 class="text-center">[CONTACT US]</h1>
 
-<form method="POST">
-	{!!csrf_field()!!}
-	<div class="form-group">
-		<label>Name</label>
-		<input class="form-control" type="" name="">
-	</div>
-	<div class="form-group">
-		<label>Email</label>
-		<input class="form-control" type="" name="">
-	</div>
-	<div class="form-group">
-		<label>Phone Number</label>
-		<input class="form-control" type="" name="">
-	</div>
-	<div class="form-group">
-		<label>Message</label>
-		<textarea class="form-control" type="" name=""></textarea>
-	</div>
-	<div class="form-group">
-		<button type="submit" class="btn btn-danger">Send</button>
-	</div>
-</form>
+	<form name="sentMessage" id="contactForm" method="POST" novalidate>
+		<div class="row control-group">
+			<div class="form-group col-xs-12 floating-label-form-group controls">
+				<label for="name">Name</label>
+				<input type="text" class="form-control" placeholder="Name" name="name" id="name" required data-validation-required-message="Please enter your name.">
+				<p class="help-block text-danger"></p>
+			</div>
+		</div>
+		<div class="row control-group">
+			<div class="form-group col-xs-12 floating-label-form-group controls">
+				<label for="email">Email Address</label>
+				<input type="email" class="form-control" placeholder="Email Address" name="email" id="email" required data-validation-required-message="Please enter your email address.">
+				<p class="help-block text-danger"></p>
+			</div>
+		</div>
+		<div class="row control-group">
+			<div class="form-group col-xs-12 floating-label-form-group controls">
+				<label for="phone">Phone Number</label>
+				<input type="tel" class="form-control" placeholder="Phone Number" name="phone" id="phone" required data-validation-required-message="Please enter your phone number.">
+				<p class="help-block text-danger"></p>
+			</div>
+		</div>
+		<div class="row control-group">
+			<div class="form-group col-xs-12 floating-label-form-group controls">
+				<label for="message">Message</label>
+				<textarea rows="4" class="form-control" placeholder="Message" name="message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+				<p class="help-block text-danger"></p>
+			</div>
+		</div>
+		<br>
+		<div id="success"></div>
+		<div class="row">
+			<div class="form-group col-xs-12">
+				<button type="submit" class="btn btn-success btn-lg">Send</button>
+			</div>
+		</div>
+	</form>
 
 @stop
