@@ -2,6 +2,10 @@
 
 @section('content')
 <h1 class="text-center">[CONTACT US]</h1>
+	<p class="text-center">We may be looking to expand our production team in the near future.</p>
+
+	<p class="text-center">If you, or someone you know, has some experience and would like to become a part of our team, or if you just want to send us a message, feel free to contact us below!</p>
+
 
 	<form name="sentMessage" id="contactForm" method="POST" novalidate>
 		<div class="row control-group">
@@ -36,7 +40,7 @@
 		<div id="success"></div>
 		<div class="row">
 			<div class="form-group col-xs-12">
-				<button type="submit" class="btn btn-success btn-lg">Send</button>
+				<button type="submit" class="btn btn-danger btn-lg">Send</button>
 			</div>
 		</div>
 	</form>

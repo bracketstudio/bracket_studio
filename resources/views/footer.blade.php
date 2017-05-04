@@ -5,8 +5,6 @@
 			<p class="footer-links">
 				<a href="/about">[About]</a>
 				·
-				<a href="/careers">[Careers]</a>
-				·
 				<a href="/faq">[FAQ]</a>
 				·
 				<a href="/contact">[Contact]</a>
