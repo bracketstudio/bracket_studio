@@ -100,13 +100,21 @@ a.j-truncate:hover {
 
 /************* TABLET STYLES *************/
 @media (min-width: 768px) {
+
 .nav>li {
 	text-align: none;
 	border-bottom: none;  
 }
+
 .navbar-right>li {
 	float: right!important;
 	margin-right: 0%;
+}
+
+.nav>li>a {
+	padding: 8px 8px;
+	padding-top:15px;
+	padding-bottom:10px;
 }
 
 }
@@ -114,5 +122,9 @@ a.j-truncate:hover {
 
 /************* DESKTOP STYLES *************/
 @media (min-width: 940px) {
+
+.navbar-nav>li>a {
+    padding: 15px;
+}
 
 }
