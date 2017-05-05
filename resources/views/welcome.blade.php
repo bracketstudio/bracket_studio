@@ -30,6 +30,7 @@
 			<!-- DISCORD -->
 			<div class="well text-center">
 				<h3>Discord</h3>
+				<a href="https://discord.gg/2PRAsxt"><img src="/img/discord.png" width="100%" "></a>
 			</div>
 			<!-- TWITTER -->
 			<div class="well text-center">
