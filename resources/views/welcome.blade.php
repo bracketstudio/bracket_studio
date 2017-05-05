@@ -16,6 +16,12 @@
 					<h2>Welcome to Bracket Studios</h2>
 					<p>Bracket Studio is a group of 6 friends based out of San Antonio, TX, committed to bringing you all sorts of video game content to enjoy! From Let's Plays, First Impressions, Q and A videos, podcasts and more, be sure to check us out. Thanks for watching!</p>
 				</div>
+
+				<!-- My bad on not knowing front-end -->
+				<div class="col-sm-12">
+					<img src="/img/con.jpg">
+				</div>
+				<!-- end my misery -->
 			</div>
         <hr>	
 		</div>
