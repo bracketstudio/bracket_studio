@@ -20,6 +20,7 @@
 
 				<div class="col-sm-12">
 					<img src="/img/con.jpg" width="100%" ">
+					<p class="pull-right"><em>Photo taken by Krys Baluyot</em></p>
 				</div>
 			</div>
         <hr>	
