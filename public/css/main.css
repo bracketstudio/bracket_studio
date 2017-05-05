@@ -74,6 +74,19 @@ textarea {
    resize: none;
 }
 
+.social-feed h3 {
+	margin-top: 0px;
+}
+
+.instagram-feed, .support {
+	padding-bottom: 0px;
+}
+
+.support h3{
+	padding-bottom: 0px; 
+	margin-bottom: 0px;
+}
+
 /*Instagram*/
 .juicer-feed * {
 	font-family: -apple-system,system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
