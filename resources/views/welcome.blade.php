@@ -28,7 +28,9 @@
 				<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 			</div>
 			<div class="well">
-				The new Bootstrap 3 is a smaller build. The separate Bootstrap base and responsive.css files have now been merged into one. There is no more fixed grid, only fluid..
+				<ul class="juicer-feed" data-feed-id="bracketstudio" data-per="1" data-pages="1" data-truncate="20">
+					<h1 class="referral"></h1>
+				</ul>
 			</div>
 			<div class="well text-center">
 				<h3>Support Us</h3>
