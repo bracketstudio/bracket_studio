@@ -7,6 +7,11 @@ li {
 	font-family: 'Press Start 2P', cursive;
 }
 
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0px;
+}
+
 .navbar-brand {
 	padding: 0em; 
 	padding-left: 1em;
@@ -41,6 +46,57 @@ li {
 	color: #a94442;
 }
 
+img.resize {
+	width: 100%; /* you can use % */
+	height: auto;
+	margin-bottom: 10px;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 35px;
+	height: 0;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+
+.video-container iframe {
+	position: absolute;
+	top:0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+
+textarea {
+   resize: none;
+}
+
+/*Instagram*/
+.juicer-feed * {
+	font-family: -apple-system,system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+}
+
+/*Read More*/
+a.j-truncate {
+	color: #3b94d9;
+}
+
+a.j-truncate:hover {
+	color: #55acee;
+}
+
+/*View on Instagram Button*/
+.j-post-overlay.juicer-feed a.juicer-button{	
+	color: #C9302C;
+	border: 2px solid #C9302C;
+}
+
+.j-post-overlay.juicer-feed a.juicer-button:hover{	
+	background-color:  #C9302C;
+}
 
 /************* TABLET STYLES *************/
 @media (min-width: 768px) {
