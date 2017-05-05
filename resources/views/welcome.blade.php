@@ -29,8 +29,8 @@
 		<div class="col-sm-4">
 			<!-- DISCORD -->
 			<div class="well text-center">
-				<h3>Discord</h3>
-				<a href="https://discord.gg/2PRAsxt"><img src="/img/discord.png" width="100%" "></a>
+				<h3 style="margin-top: 0px">Join Our Chat Room</h3>
+				<a target="_blank" href="https://discord.gg/2PRAsxt"><img src="/img/discord.png" width="100%" "></a>
 			</div>
 			<!-- TWITTER -->
 			<div class="well text-center">
