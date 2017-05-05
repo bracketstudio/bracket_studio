@@ -70,6 +70,10 @@ img.resize {
 	margin: auto;
 }
 
+textarea {
+   resize: none;
+}
+
 /*Instagram*/
 .juicer-feed * {
 	font-family: -apple-system,system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
