@@ -70,6 +70,29 @@ img.resize {
 	margin: auto;
 }
 
+/*Instagram*/
+.juicer-feed * {
+	font-family: -apple-system,system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+}
+
+/*Read More*/
+a.j-truncate {
+	color: #3b94d9;
+}
+
+a.j-truncate:hover {
+	color: #55acee;
+}
+
+/*View on Instagram Button*/
+.j-post-overlay.juicer-feed a.juicer-button{	
+	color: #C9302C;
+	border: 2px solid #C9302C;
+}
+
+.j-post-overlay.juicer-feed a.juicer-button:hover{	
+	background-color:  #C9302C;
+}
 
 /************* TABLET STYLES *************/
 @media (min-width: 768px) {

@@ -31,12 +31,14 @@
 				<h3>Discord</h3>
 			</div>
 			<!-- TWITTER -->
-			<div class="well">
+			<div class="well text-center">
+				<h3 style="margin-top: 0px">Twitter <i class="fa fa-twitter" aria-hidden="true"></i></h3>
 				<a class="twitter-timeline" href="https://twitter.com/BracketStudio" data-tweet-limit="1">Tweets by BracketStudio</a> 
 			</div>
 			<!-- INSTAGRAM -->
-			<div class="well" style="padding-bottom: 0px">
-				<ul class="juicer-feed" data-feed-id="bracketstudio" data-per="1" data-pages="1" data-truncate="25">
+			<div class="well text-center" style="padding-bottom: 0px">
+				<h3 style="margin-top: 0px">Instagram <i class="fa fa-instagram" aria-hidden="true"></i></h3>
+				<ul class="juicer-feed" data-feed-id="bracketstudio" data-per="1" data-pages="1" data-truncate="65">
 					<h1 class="referral" style="display: none;"></h1>
 				</ul>
 			</div>
