@@ -13,8 +13,8 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-12">
-					<h2>A Playground</h2>
-					<p>Bootply is a playground for Bootstrap. Designers and developers use Bootply to edit, design, prototype, test and find examples that use Bootstrap 3. Use Bootply to hand-code HTML, Javascript, CSS and drop in the Bootstrap classes. There is a also a visual drag-and-drop builder that is perfect for wire-framing and mockups.</p>
+					<h2>Welcome to Bracket Studios</h2>
+					<p>Bracket Studio is a group of 6 friends based out of San Antonio, TX, committed to bringing you all sorts of video game content to enjoy! From Let's Plays, First Impressions, Q and A videos, podcasts and more, be sure to check us out. Thanks for watching!</p>
 				</div>
 			</div>
         <hr>	
