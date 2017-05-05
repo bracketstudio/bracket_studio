@@ -26,26 +26,26 @@
         <hr>	
 		</div>
 
-		<div class="col-sm-4">
+		<div class="col-sm-4 social-feed">
 			<!-- DISCORD -->
 			<div class="well text-center">
-				<h3 style="margin-top: 0px">Join Our Chat Room</h3>
+				<h3>Join Our Chat Room</h3>
 				<a target="_blank" href="https://discord.gg/2PRAsxt"><img src="/img/discord.png" width="100%" "></a>
 			</div>
 			<!-- TWITTER -->
 			<div class="well text-center">
-				<h3 style="margin-top: 0px">Twitter <i class="fa fa-twitter" aria-hidden="true"></i></h3>
+				<h3>Twitter <i class="fa fa-twitter" aria-hidden="true"></i></h3>
 				<a class="twitter-timeline" href="https://twitter.com/BracketStudio" data-tweet-limit="1">Tweets by BracketStudio</a> 
 			</div>
 			<!-- INSTAGRAM -->
-			<div class="well text-center" style="padding-bottom: 0px">
-				<h3 style="margin-top: 0px">Instagram <i class="fa fa-instagram" aria-hidden="true"></i></h3>
+			<div class="well text-center instagram-feed">
+				<h3>Instagram <i class="fa fa-instagram" aria-hidden="true"></i></h3>
 				<ul class="juicer-feed" data-feed-id="bracketstudio" data-per="1" data-pages="1" data-truncate="65">
 					<h1 class="referral" style="display: none;"></h1>
 				</ul>
 			</div>
 			<!-- SUPPORT US --> 
-			<div class="well text-center">
+			<div class="well text-center support">
 				<h3>Support Us</h3>
 				<a href="https://www.patreon.com/bracketstudio"><img src="/img/patreon.png" alt="patreon" width="100%"></a>
 			</div>
