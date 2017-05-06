@@ -111,6 +111,14 @@ a.j-truncate:hover {
 	background-color:  #C9302C;
 }
 
+.playlists h3 {
+	margin-top: 5%;
+}
+
+.playlists a {
+	text-decoration: underline;
+}
+
 /************* TABLET STYLES *************/
 @media (min-width: 768px) {
 
