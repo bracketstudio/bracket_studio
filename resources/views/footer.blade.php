@@ -1,6 +1,6 @@
 	<footer class="footer-basic-centered">
 
-			<p class="footer-company-motto">We don't give a fuck. -Dewie</p>
+			<p class="footer-company-motto">Bracket studio</p>
 
 			<p class="footer-links">
 				<a href="/about">[About]</a>
