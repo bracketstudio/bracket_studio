@@ -13,18 +13,18 @@ li {
 }
 
 .navbar-brand {
-	padding: 0em; 
+	padding: 0em;
 	padding-left: 1em;
 }
 
 .navbar-brand img{
-	height: 3em; 
+	height: 3em;
 	width: 3em;
 }
 
 .nav>li {
 	text-align: center;
-	border-bottom: 1px solid #9d9d9d;  
+	border-bottom: 1px solid #9d9d9d;
 }
 
 .dropdown-menu>li {
@@ -39,7 +39,7 @@ li {
 .navbar-right>li {
 	float: right;
 	margin-right: 11%;
-	border-bottom: none;  
+	border-bottom: none;
 }
 
 .help-block {
@@ -83,13 +83,13 @@ textarea {
 }
 
 .support h3{
-	padding-bottom: 0px; 
+	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
 
 /*Instagram*/
 .juicer-feed * {
-	font-family: -apple-system,system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+	font-family: -apple-system,system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 /*Read More*/
@@ -102,12 +102,12 @@ a.j-truncate:hover {
 }
 
 /*View on Instagram Button*/
-.j-post-overlay.juicer-feed a.juicer-button{	
+.j-post-overlay.juicer-feed a.juicer-button{
 	color: #C9302C;
 	border: 2px solid #C9302C;
 }
 
-.j-post-overlay.juicer-feed a.juicer-button:hover{	
+.j-post-overlay.juicer-feed a.juicer-button:hover{
 	background-color:  #C9302C;
 }
 
@@ -124,7 +124,7 @@ a.j-truncate:hover {
 
 .nav>li {
 	text-align: none;
-	border-bottom: none;  
+	border-bottom: none;
 }
 
 .navbar-right>li {

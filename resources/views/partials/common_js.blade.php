@@ -5,13 +5,13 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <!-- Twitter -->
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- Instagram --> 
+<!-- Instagram -->
 <script src="//assets.juicer.io/embed.js" type="text/javascript"></script>
 
 
 
 
 <!-- ********* THESE JS SCRIPTS HAVE TO STAY AT THE BOTTOM ********* -->
-<!-- Contact Form JavaScript -->  
+<!-- Contact Form JavaScript -->
 <script src="js/jqBootstrapValidation.js"></script>
 <script src="js/contact.js"></script>
